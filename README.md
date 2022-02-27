@@ -1,6 +1,7 @@
 # RainmeterSkins
 
 The Chinese Version is [here](README_Chi.md)
+
 Here is the repository storing the Rainmeter Skins made by me.
 
 I'm here to share my little kitties with u, hoping u could find some insteresting things which may make ur work and life easier.  
