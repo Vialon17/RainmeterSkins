@@ -34,7 +34,7 @@ I also offer the skin installer within every folder, just download `.rmskin` fil
 
 _PS:You can change the skin's position by dragging it on Windows directly._
 
-Sometimes maybe u should change some parameters before starting use it. The RM auther always put them into `variables.inc` file so u just need to follow their steps.
+Sometimes maybe u should change some parameters before starting use it. The RM author always put them into `variables.inc` file so u just need to follow their steps.
 
 -----
 
