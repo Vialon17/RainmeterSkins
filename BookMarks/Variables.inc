@@ -1,7 +1,6 @@
 [Variables]
 FColor = 188,221,250,150
 FFace = Calibri
-Firefox = E:\Firefox\firefox.exe
 
 ;here is the section about the BookMarks,
 ;fontf -> the fontface of the marks string
@@ -11,23 +10,28 @@ Firefox = E:\Firefox\firefox.exe
 ; color1 = R, G, B, transparency.
 FontF = Old English Text MT
 
+Firefox1 = E:\Firefox\firefox.exe
 Name1 = Google
 URL1 = https://www.google.com
 Color1 = 30,235,156,255
 
-Name2 = Python 100days
-URL2 = https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/02.%E8%AF%AD%E8%A8%80%E5%85%83%E7%B4%A0.md
+Firefox2 = E:\Firefox\firefox.exe
+Name2 = Github
+URL2 = https://github.com
 Color2 = 30,235,156,255
 
-Name3 = BookMark3
-URL3 = https://www.zhihu.com/question/26006703
+Firefox3 = E:\Firefox\firefox.exe
+Name3 = LintCode
+URL3 = https://www.lintcode.com/problem/?typeId=2
 Color3 = 30,235,156,255
 
-Name4 = BookMark4
-URL4 = https://www.zhihu.com/question/26006703
+Firefox4 = E:\Firefox\firefox.exe
+Name4 = Runood
+URL4 = https://www.runoob.com/python3/python3-tutorial.html
 Color4 = 30,235,156,255
 
-Name5 = BookMark5
+Firefox5 = E:\Books\SumatraPDF.exe
+Name5 = Books
 URL5 = https://www.zhihu.com/question/26006703
 Color5 = 30,235,156,255
 

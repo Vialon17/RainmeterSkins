@@ -60,7 +60,7 @@ Group = BookMark
 Text = #Name1#
 FontColor = #Color1#
 MeterStyle = Mark_Style
-LeftMouseDownAction = [#Firefox# #URL1#]
+LeftMouseDownAction = [#Firefox1# #URL1#]
 RightMouseDownAction = [!CommandMeasure "MeasureInput" "ExecuteBatch 1"]
 
 [Mark2]
@@ -70,7 +70,7 @@ Text = #Name2#
 FontColor = #Color2#
 Y = 35r
 MeterStyle = Mark_Style
-LeftMouseDownAction = [#Firefox# #URL2#]
+LeftMouseDownAction = [#Firefox2# #URL2#]
 RightMouseDownAction = [!CommandMeasure "MeasureInput" "ExecuteBatch 2"]
 
 [Mark3]
@@ -80,7 +80,7 @@ Text = #Name3#
 FontColor = #Color3#
 Y = 35r
 MeterStyle = Mark_Style
-LeftMouseDownAction = [#Firefox# #URL3#]
+LeftMouseDownAction = [#Firefox3# #URL3#]
 RightMouseDownAction = [!CommandMeasure "MeasureInput" "ExecuteBatch 3"]
 
 [Mark4]
@@ -90,7 +90,7 @@ Text = #Name4#
 FontColor = #Color4#
 Y = 35r
 MeterStyle = Mark_Style
-LeftMouseDownAction = [#Firefox# #URL4#]
+LeftMouseDownAction = [#Firefox4# #URL4#]
 RightMouseDownAction = [!CommandMeasure "MeasureInput" "ExecuteBatch 4"]
 
 [Mark5]
@@ -100,6 +100,6 @@ Text = #Name5#
 FontColor = #Color5#
 Y = 35r
 MeterStyle = Mark_Style
-LeftMouseDownAction = [#Firefox# #URL5#]
+LeftMouseDownAction = [#Firefox5# #URL5#]
 RightMouseDownAction = [!CommandMeasure "MeasureInput" "ExecuteBatch 5"]
 
