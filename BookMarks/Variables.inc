@@ -50,3 +50,8 @@ tempmeasure = temp
 ;
 ;Warning:
 ;If u didn't input the URL, the parameter 'URL' won't work correctly!!!
+
+;Add on:
+;1. The bookmark rule: 'Bookmark_Name<blank>URLs'
+;2. I add application secton named 'FirefoxN' so the user can set the special Application to open different bookmark.
+;   for example: firefox1 = 'microsoft word.exe' the bookmark1 -> 'Temp Word c:/user/XXX/Desktop/temp.doc'.
