@@ -5,7 +5,7 @@
 You just need to change the `Play_Name` veriable in 'Veriable.inc' file,<br>
 I will show the syntax:<br>
 ```
-Palyer_Name = AIMP
+Player_Name = AIMP
 ```
 ---------
 ### __Fully Supported Player__

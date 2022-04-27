@@ -36,7 +36,7 @@ URL5 = https://www.zhihu.com/question/26006703
 Color5 = 30,235,156,255
 
 ;the Background Setting about
-;if u don't wanna show the Background, just change the Parameter `backgroundgroup = Mark_Background` to other value.
+;if u wanna show the Background, just change the Parameter to `backgroundgroup = Mark_Background`.
 ;The color1 and color are the controller of the Gradient color of the background.
 BackgroundGroup = Mark_Backgroun
 Backgroundcolor1 = 255, 255, 255, 140
@@ -52,6 +52,5 @@ tempmeasure = temp
 ;If u didn't input the URL, the parameter 'URL' won't work correctly!!!
 
 ;Add on:
-;1. The bookmark rule: 'Bookmark_Name<blank>URLs'
-;2. I add application secton named 'FirefoxN' so the user can set the special Application to open different bookmark.
+; I add application secton named 'FirefoxN' so the user can set the special Application to open different bookmark.
 ;   for example: firefox1 = 'microsoft word.exe' the bookmark1 -> 'Temp Word c:/user/XXX/Desktop/temp.doc'.
