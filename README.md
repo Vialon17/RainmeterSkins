@@ -11,16 +11,16 @@ So just have fun.  😋 😋
 
 __Rainmete__ is a tool program to flow ur Windows and make ur Windows desktop individuation.
 
-The messy desktop? The bland icon? The awful UI design? Maybe u need Rainmeter to make ur computer active. 💖
+The messy desktop? The bland icon? The awful UI design? Maybe u need Rainmeter to make ur computer more individual. 💖
 
 ## Before Start
 
-You should install [Rainmeter](https://www.rainmeter.net/) firstly, and it's better to make Rainmeter start with Windows beacause this program just needs a little resource to run effectively.
+You should install [Rainmeter](https://www.rainmeter.net/) firstly, and it's better to add it to Startup applications beacause this program just needs a little resource to run effectively.
 
 Add a shortcut into The startup folder.  
 Its path:`C:\Users\$USERNAME$\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
 
-_I usually use rm on Windows so I don't know its Linux version. U can visit [RM BBS](https://bbs.rainmeter.cn/) or [TieBa](https://tieba.baidu.com/f?kw=rainmeter) for help. ***And u can find more interesting skins on them!!!*** BTW._
+_Rainmeter don't support Linux OS or Mac. But maybe u can google some similar application, BTW._
 
 ## Simple Use
 
